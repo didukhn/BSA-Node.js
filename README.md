@@ -1,6 +1,6 @@
 # BSA-Node.js
 
-## User: 
+## Users: 
 
 ```
 
@@ -26,7 +26,7 @@ DELETE: /api/user/:id
 
 ```
 
-## Message: 
+## Messages: 
 
 ```
 GET: /api/message/
